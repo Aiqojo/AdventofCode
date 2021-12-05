@@ -25,6 +25,10 @@ int main() {
     std::vector<long long> safelist;
     std::vector<long long> lastKeys;
 
+    //i realized at 3 am last night that i did this backwards..... :(
+    //i started at the ones digit and moved left... I was supposed to start at the left most digit and move right
+    //i really dont want to touch this code though................
+
     for(int i = 0; i < 12; i++){
         for(int j = 0; j < list.size(); j++){
             if((list[j] / moving) % 10 == 1){

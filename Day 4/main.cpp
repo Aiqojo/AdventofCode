@@ -97,7 +97,6 @@ bool winCheck(std::vector<std::vector<int>> list){
     return false;
 }
 
-
 void calcAnswer(std::vector<std::vector<int>> board, int &winInt){
     int sumTotal = 0;
     for(int i = 0; i < 5; i++){
@@ -110,10 +109,9 @@ void calcAnswer(std::vector<std::vector<int>> board, int &winInt){
     std::cout << sumTotal * winInt;
 }
 
-
 int main() {
 
-    //CHANGE LINE 169 TO GET ANSWER TO DIFFERENT PART
+    //CHANGE LINE 168 TO GET ANSWER TO DIFFERENT PART
 
     //boilerplate
     std::ifstream fIn;
