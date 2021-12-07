@@ -56,7 +56,6 @@ int main() {
         s = 0;
         t = 0;
         temp = 0;
-
         day = 256;
     }
 
