@@ -31,6 +31,7 @@ int main() {
         part1 += abs(len - i);
     }
     std::cout << "Part 1: " << part1 << "\n";
+    std::cout << "BEST HORIZ LOCATION PART 1 : " << list[list.size()/2] << "\n";
 
     long long sum = 0;
     long long fuel = 0;
@@ -76,9 +77,8 @@ int main() {
         fuel = 0;
     }
 
-    std::cout << "----PART 2----" << "\n";
-    std::cout << "BEST FUEL: " << bestFuel << "\n";
-    std::cout << "BEST AVG: " << bestAvg << "\n";
+    std::cout << "PART 2: " << bestFuel << "\n";
+    std::cout << "BEST HORIZ LOCATION PART 2 : " << bestAvg << "\n";
 
     return 0;
 }
