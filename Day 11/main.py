@@ -45,7 +45,7 @@ def flash(grid, r, c):  # yummy recursion
     global rr
     global cc
     global flashes
-    if not r < 0 and not c < 0 and not r > 9 and not c > 9:  # as long as the location is within bounds
+    if 0 <= r <= 9 and 0 <= c <= 9:  # as long as the location is within bounds
         if grid[r][c] < 9:  # if it is less than 9
             grid[r][c] += 1  # add one and return (base case)
             return grid
@@ -69,32 +69,8 @@ def restore(grid):
 
 
 def main():
-    # part1("test.txt")
-    # part1("aoc_day11.txt")
     part1and2("aoc_day11.txt")
 
 
 if __name__ == '__main__':
     main()
-
-# print("")
-#     for q in range(len(map)):
-#         print(map[q])
-#     global rr
-#     global cc
-#     global flashes
-#     if map[r][c] <= 9 and not map[r][c] < 0:
-#         map[r][c] += 1
-#         map[r][c] *= -1
-#         map = flash(map, r, c)
-#         # map = aoe(map, r, c)
-#         return map
-#     elif map[r][c] > 9:
-#         map[r][c] = 0
-#         flashes += 1
-#         for k in rr:
-#             for j in cc:
-#                 if not r + k < 0 and not c + j < 0 and not r + k > 9 and not c + j > 9:
-#                     map = flash(map, r+k, c+j)
-#     else:
-#         return map
