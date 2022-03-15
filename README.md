@@ -22,21 +22,13 @@ I've decided to not be a masochist and switch to Python.
 | 6   | 5645         | 5345         | I hate C++ longs                                                                         |
 | 7   | 6833         | 5808         | Quick and easy                                                                           |
 | 8   | 4418         | 21549        | I've officially given up on C++, Python it is. I could've gotten such better ranks... :( |
-| 9   |              |              |                                                                                          |
-| 10  |              |              |                                                                                          |
-| 11  |              |              |                                                                                          |
-| 12  |              |              |                                                                                          |
-| 13  |              |              |                                                                                          |
-| 14  |              |              |                                                                                          |
-| 15  |              |              |                                                                                          |
-| 16  |              |              |                                                                                          |
-| 17  |              |              |                                                                                          |
-| 18  |              |              |                                                                                          |
-| 19  |              |              |                                                                                          |
-| 20  |              |              |                                                                                          |
-| 21  |              |              |                                                                                          |
-| 22  |              |              |                                                                                          |
-| 23  |              |              |                                                                                          |
-| 24  |              |              |                                                                                          |
-| 25  |              |              |                                                                                          |
-| 25  |              |              |                                                                                          |
+| 9   | 5034         | 3850         |                                                                                          |
+| 10  | 8417         | 7703         |                                                                                          |
+| 11  | 8771         | 8737         |                                                                                          |
+| 12  | 7344         | 6346         |                                                                                          |
+| 13  | 29239        | 28840        | All starting here were done in afternoon, so inflated ranks                              |
+| 14  | 33767        | 26706        |                                                                                          |
+| 15  | 21860        | 17483        |                                                                                          |
+| 16  | 17969        | 16069        |                                                                                          |
+| 17  | 28567        | 27305        | Got busy, couldn't complete the rest                                                     |
+| 23  | 7494         | 7596         | Did this one by hand though just cause I could                                           |
