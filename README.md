@@ -1,4 +1,10 @@
-# AdventofCode2021
+# Advent of Code
+
+## 2022
+
+Coming soon...
+
+## 2021
 
 Probably the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
 
