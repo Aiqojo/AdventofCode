@@ -2,10 +2,9 @@ p = []
 f = open("t2.txt", "r")
 for line in f:
     p.append(line.strip())
-# 0 lost 3 draw 6 won
+
 s1 = 0
 s2 = 0
-
 for line in p:
     l = line.split(" ")
     L1 = l[0]
@@ -70,5 +69,6 @@ for line in p:
         elif L2 == "Z":  # win - pick rock
             s2 += 6 + 1
 
-print(s1, s2)
+print("part 1:", s1)
+print("part 2:", s2)
 f.close()
