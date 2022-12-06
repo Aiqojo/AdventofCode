@@ -6,6 +6,7 @@ f = open("t1.txt", "r")
 for line in f:
     p.append(line.strip())
 
+# keeping track of higest elves
 mx = [0, 0, 0]
 cur = 0
 indx = 0
