@@ -2,6 +2,8 @@
 
 ## 2022
 
+Python through and through this year
+
 | Day | Part 1 Place | Part 2 Place |
 | --- | ------------ | ------------ |
 | 1   | 4502         | 5267         |
