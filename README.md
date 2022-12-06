@@ -13,7 +13,7 @@
 
 ## 2021
 
-Probably the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
+Probably the up there for some of the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
 
 But here it is.
 
