@@ -2,11 +2,20 @@
 
 ## 2022
 
-Coming soon...
+Python through and through this year
+
+| Day | Part 1 Place | Part 2 Place |
+| --- | ------------ | ------------ |
+| 1   | 4502         | 5267         |
+| 2   | 518          | 1302         |
+| 3   | 1856         | 3567         |
+| 4   | 3659         | 2385         |
+| 5   | 2770         | 2159         |
+| 6   | 1011         | 607          |
 
 ## 2021
 
-Probably the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
+Probably the up there for some of the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
 
 But here it is.
 
