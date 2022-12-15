@@ -37,7 +37,7 @@ while True:
     d2 = {}
     d3 = {}
 
-    print("looking at", l)
+    # print("looking at", l)
 
     for letter in l[0]:
         if letter not in d1:
@@ -60,7 +60,7 @@ while True:
     # find the only letter that is in all three
     for letter in d1:
         if letter in d2 and letter in d3:
-            print("found", letter, "in all three")
+            # print("found", letter, "in all three")
             summy2 += vals[letter]
 
     p = p[3:]
