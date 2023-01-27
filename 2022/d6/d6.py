@@ -12,7 +12,7 @@ for line in p:
         if counter < size:
             listt.append(letter)
             counter += 1
-        else:
+        else:   
             d = set(listt)
             if len(d) == size:
                 print(counter)
