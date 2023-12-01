@@ -1,5 +1,9 @@
 # Advent of Code
 
+## 2023
+
+python... im tired... why does it start at midnight...
+
 ## 2022
 
 Python through and through this year
@@ -25,7 +29,6 @@ I'll try to keep comments on this and make it somewhat make sense, but only time
 I've decided to not be a masochist and switch to Python.
 
 **UPDATE:** I stopped at around Day 18 or something, will fix this up and add all of my other stuff in the soon future.
-
 
 | Day | Part 1 Place | Part 2 Place | Note                                                                                     |
 | --- | ------------ | ------------ | ---------------------------------------------------------------------------------------- |
