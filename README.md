@@ -17,6 +17,8 @@ Python through and through this year
 | 5   | 2770         | 2159         |
 | 6   | 1011         | 607          |
 
+i did continue after day 6, just lazy no updates here
+
 ## 2021
 
 Probably the up there for some of the most unoptimized and needlessly complicated code out there for Advent of Code 2021.
