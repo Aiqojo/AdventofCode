@@ -1,5 +1,4 @@
 import numpy as np
-import os
 
 lines = []
 file = open("d1.txt").read().strip()
@@ -21,7 +20,7 @@ nums = {
 
 p1 = []
 p2 = []
-for i, line in enumerate(lines):
+for line in lines:
     cur_line1 = ""
     cur_line2 = ""
     # print(line)
