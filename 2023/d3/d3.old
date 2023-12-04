@@ -1,0 +1,10 @@
+
+                        # if lines[i + d[0]][j + d[1]].isdigit():
+                        #     # if a digit, find beginning of the number on that line
+                        #     # and add the entire number to the total
+                        #     cur_num = lines[i + d[0]][j + d[1]]
+                        #     for k in range(j + d[1], len(lines[i + d[0]])):
+                        #         if not lines[i + d[0]][k].isdigit():
+                        #             break
+                        #         cur_num += lines[i + d[0]][k]
+                        #     tot += int(cur_num)
